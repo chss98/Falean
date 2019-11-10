@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["c.kodular.io"],"YaVersion":"212","Source":"Form","Properties":{"$Name":"Screen13","$Type":"Form","$Version":"41","AlignHorizontal":"3","AlignVertical":"2","AppId":"6638891324932096","AppName":"Andon","PrimaryColor":"&HFF9E9E9E","PrimaryColorDark":"&HFF9E9E9E","ReceiveSharedText":"none","Title":"Screen13","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Imagem1","$Type":"Image","$Version":"5","Height":"200","Width":"200","Picture":"acidente-790x790.png","Uuid":"819532587"},{"$Name":"Legenda1","$Type":"Label","$Version":"8","FontSize":"18","Text":"Mantenha a calma e informe a urg\u00eancia","Uuid":"-1902507022"},{"$Name":"Organiza\u00e7\u00e3oHorizontal1","$Type":"HorizontalArrangement","$Version":"9","Image":"microphone-2104091_960_720.png.webp","Uuid":"1873628691"},{"$Name":"Gravador1","$Type":"SoundRecorder","$Version":"3","Uuid":"1495578061"}]}}
+|#

@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["c.kodular.io"],"YaVersion":"212","Source":"Form","Properties":{"$Name":"Screen3","$Type":"Form","$Version":"41","AlignHorizontal":"3","AlignVertical":"2","AppId":"6638891324932096","AppName":"Andon","PrimaryColor":"&HFF9E9E9E","PrimaryColorDark":"&HFF9E9E9E","ReceiveSharedText":"none","Title":"Screen3","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Legenda1","$Type":"Label","$Version":"8","Text":"Cadastro","Uuid":"-1761049660"},{"$Name":"CaixaDeTexto1","$Type":"TextBox","$Version":"12","Hint":"Dica para CaixaDeTexto1","Text":"Crie um E-mail","Uuid":"-266730933"},{"$Name":"CaixaDeTexto2","$Type":"TextBox","$Version":"12","Hint":"Crie uma senha","Uuid":"1317241410"},{"$Name":"CaixaDeTexto3","$Type":"TextBox","$Version":"12","Hint":"Digite a senha novamente","Uuid":"-1036176872"},{"$Name":"Bot\u00e3o2","$Type":"Button","$Version":"11","BackgroundColor":"&HFF9E9E9E","Text":"Cadastrar","Uuid":"557528668"}]}}
+|#

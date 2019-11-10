@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["c.kodular.io"],"YaVersion":"212","Source":"Form","Properties":{"$Name":"Screen2","$Type":"Form","$Version":"41","AlignHorizontal":"3","AlignVertical":"2","AppId":"6638891324932096","AppName":"Andon","PrimaryColor":"&HFF9E9E9E","PrimaryColorDark":"&HFF9E9E9E","ReceiveSharedText":"none","Title":"Screen2","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Legenda1","$Type":"Label","$Version":"8","Text":"Loguin","Uuid":"-13811216"},{"$Name":"CaixaDeTexto1","$Type":"TextBox","$Version":"12","Hint":"Dica para CaixaDeTexto1","Text":"E-mail","Uuid":"199220163"},{"$Name":"CaixaDeTexto2","$Type":"TextBox","$Version":"12","Hint":"Dica para CaixaDeTexto2","Text":"Senha","Uuid":"-1510616456"},{"$Name":"Bot\u00e3o2","$Type":"Button","$Version":"11","BackgroundColor":"&HFF9E9E9E","Text":"Entrar","Uuid":"-1950029882"},{"$Name":"Bot\u00e3o3","$Type":"Button","$Version":"11","BackgroundColor":"&HFF9E9E9E","Text":"Cadastre-se","Uuid":"-893579059"}]}}
+|#

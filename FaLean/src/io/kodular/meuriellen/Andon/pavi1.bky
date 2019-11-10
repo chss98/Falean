@@ -1,0 +1,16 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="CylR/lzDcQTetQec}VxH" x="-810" y="-410">
+    <mutation component_type="Button" is_generic="false" instance_name="Botão1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Botão1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="U2B]va4O+~%gRvk.n_#l">
+        <value name="SCREEN">
+          <block type="text" id="4j*Fq2gBHHZeMX9`#FdA">
+            <field name="TEXT">qrcode</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="212" language-version="27"></yacodeblocks>
+</xml>

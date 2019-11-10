@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["c.kodular.io"],"YaVersion":"212","Source":"Form","Properties":{"$Name":"Screen9","$Type":"Form","$Version":"41","AlignHorizontal":"3","AlignVertical":"2","AppId":"6638891324932096","AppName":"Andon","PrimaryColor":"&HFF9E9E9E","PrimaryColorDark":"&HFF9E9E9E","ReceiveSharedText":"none","Title":"Screen9","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Legenda1","$Type":"Label","$Version":"8","FontSize":"20","Width":"-2","Text":"Cadastre a sua constru\u00e7\u00e3o aqui","TextAlignment":"1","Uuid":"-1679006553"},{"$Name":"CaixaDeTexto1","$Type":"TextBox","$Version":"12","Hint":"Nome da Obra","Uuid":"1047355355"},{"$Name":"Bot\u00e3o1","$Type":"Button","$Version":"11","BackgroundColor":"&HFF9E9E9E","Text":"Salvar","Uuid":"-2057176868"}]}}
+|#

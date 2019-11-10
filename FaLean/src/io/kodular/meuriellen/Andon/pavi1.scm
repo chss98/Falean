@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["c.kodular.io"],"YaVersion":"212","Source":"Form","Properties":{"$Name":"pavi1","$Type":"Form","$Version":"41","AlignHorizontal":"3","AlignVertical":"2","AppId":"6638891324932096","AppName":"Andon","PrimaryColor":"&HFF9E9E9E","PrimaryColorDark":"&HFF9E9E9E","ReceiveSharedText":"none","Title":"pavi1","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Bot\u00e3o1","$Type":"Button","$Version":"11","BackgroundColor":"&HFF9E9E9E","Text":"1 Pavimento","Uuid":"-187117643"},{"$Name":"IniciadorDeAtividades1","$Type":"ActivityStarter","$Version":"6","Uuid":"1774765222"}]}}
+|#

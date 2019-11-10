@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["c.kodular.io"],"YaVersion":"212","Source":"Form","Properties":{"$Name":"Screen8","$Type":"Form","$Version":"41","AlignHorizontal":"3","AlignVertical":"2","AppId":"6638891324932096","AppName":"Andon","PrimaryColor":"&HFF9E9E9E","PrimaryColorDark":"&HFF9E9E9E","ReceiveSharedText":"none","Title":"Screen8","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Imagem1","$Type":"Image","$Version":"5","Height":"-2","Width":"-2","Uuid":"-1857849849"},{"$Name":"Legenda1","$Type":"Label","$Version":"8","Uuid":"-1989658844"},{"$Name":"Bot\u00e3o1","$Type":"Button","$Version":"11","BackgroundColor":"&HFF9E9E9E","Text":"voltar","Uuid":"-1990525126"},{"$Name":"QR_Code1","$Type":"QrCode","$Version":"1","Uuid":"17484969"}]}}
+|#

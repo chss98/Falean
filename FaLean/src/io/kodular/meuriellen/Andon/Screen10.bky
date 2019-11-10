@@ -1,0 +1,55 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="(p`vQyYbaYsc.zv`IG7:" x="-650" y="-230">
+    <mutation component_type="Button" is_generic="false" instance_name="Botão1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Botão1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="gBV1-2Xo*,Diz%[=wNHU">
+        <value name="SCREEN">
+          <block type="text" id="A_LURV=fZau?r)|vw8W3">
+            <field name="TEXT">pavi1</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="GU`1]Q$+V%Lgix[?Hyai" x="-650" y="-150">
+    <mutation component_type="Button" is_generic="false" instance_name="Botão2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Botão2</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="q1zHQML(;YXlg1~/lx?1">
+        <value name="SCREEN">
+          <block type="text" id="#KuesRYH0v)EQGrBDbmN">
+            <field name="TEXT">pavi5</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="a14*)r:qAa?:}Yx%S3JH" x="-650" y="-70">
+    <mutation component_type="Button" is_generic="false" instance_name="Botão3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Botão3</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="XB$W)(*xJ8p@k:}*{M3%">
+        <value name="SCREEN">
+          <block type="text" id="gtNBqgQZ};;Hphr$/Dh{">
+            <field name="TEXT">pavi10</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="X:I[_P!,8!|GzP*55x_@" x="-650" y="10">
+    <mutation component_type="Button" is_generic="false" instance_name="Botão4" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Botão4</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="X)lVbQvg0X{bc6S={K/G">
+        <value name="SCREEN">
+          <block type="text" id="spH3TJ3if%5RlE|`1l=q">
+            <field name="TEXT">pavi20</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="212" language-version="27"></yacodeblocks>
+</xml>

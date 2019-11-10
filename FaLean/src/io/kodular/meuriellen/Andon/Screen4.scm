@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["c.kodular.io"],"YaVersion":"212","Source":"Form","Properties":{"$Name":"Screen4","$Type":"Form","$Version":"41","AlignHorizontal":"3","AlignVertical":"2","AppId":"6638891324932096","AppName":"Andon","PrimaryColor":"&HFF9E9E9E","PrimaryColorDark":"&HFF9E9E9E","ReceiveSharedText":"none","Title":"Screen4","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Organiza\u00e7\u00e3oVertical1","$Type":"VerticalArrangement","$Version":"9","AlignHorizontal":"3","AlignVertical":"2","Height":"-2","Width":"-2","Uuid":"-1404467034","$Components":[{"$Name":"Bot\u00e3o1","$Type":"Button","$Version":"11","BackgroundColor":"&HFF9E9E9E","FontBold":"True","FontSize":"20","Height":"60","Width":"-2","Text":"Respons\u00e1vel Pela Obra","Uuid":"2040030650"},{"$Name":"Bot\u00e3o2","$Type":"Button","$Version":"11","BackgroundColor":"&HFF9E9E9E","FontBold":"True","FontSize":"20","Height":"60","Width":"-2","Text":"Colaborador","Uuid":"-1705982615"}]}]}}
+|#

@@ -1,0 +1,29 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id=":ZY:yG@z!*mQ1STNP6r1" x="70" y="70">
+    <mutation component_type="Image" is_generic="false" instance_name="Imagem1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Imagem1</field>
+    <statement name="DO">
+      <block type="component_method" id="dS[hz9OT56v,#XT0yGlH">
+        <mutation component_type="SoundRecorder" method_name="Start" is_generic="false" instance_name="Gravador1"></mutation>
+        <field name="COMPONENT_SELECTOR">Gravador1</field>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="OTK@bT|={:*8pUFwD_Rv" x="70" y="170">
+    <mutation component_type="SoundRecorder" is_generic="false" instance_name="Gravador1" event_name="AfterSoundRecorded"></mutation>
+    <field name="COMPONENT_SELECTOR">Gravador1</field>
+    <statement name="DO">
+      <block type="component_set_get" id="U,h}5?dI|~*pK1d!*srn">
+        <mutation component_type="SoundRecorder" set_or_get="set" property_name="SavedRecording" is_generic="false" instance_name="Gravador1"></mutation>
+        <field name="COMPONENT_SELECTOR">Gravador1</field>
+        <field name="PROP">SavedRecording</field>
+        <value name="VALUE">
+          <block type="text" id="etY[=^$cUlKSl:y)_R*(">
+            <field name="TEXT">Screen10</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="212" language-version="27"></yacodeblocks>
+</xml>

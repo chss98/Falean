@@ -1,0 +1,26 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="rrK$)i^060Mpm=+;k3CH" x="-1050" y="-450">
+    <mutation component_type="Form" is_generic="false" instance_name="Screen5" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Screen5</field>
+    <statement name="DO">
+      <block type="component_method" id="`):%-/!-8anrg]{.z2VG">
+        <mutation component_type="BarcodeScanner" method_name="DoScan" is_generic="false" instance_name="CódigoDeBarras1"></mutation>
+        <field name="COMPONENT_SELECTOR">CódigoDeBarras1</field>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="Cb3OzUTVmNsmJQTh)AD;" x="-1050" y="-370">
+    <mutation component_type="BarcodeScanner" is_generic="false" instance_name="CódigoDeBarras1" event_name="AfterScan"></mutation>
+    <field name="COMPONENT_SELECTOR">CódigoDeBarras1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="B7.W)9Zp-LmwWVkvu*F]">
+        <value name="SCREEN">
+          <block type="text" id=";Z{/j*]@mN$XZJfS!Z`O">
+            <field name="TEXT">Screen6</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="212" language-version="27"></yacodeblocks>
+</xml>

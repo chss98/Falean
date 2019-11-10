@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["c.kodular.io"],"YaVersion":"212","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"41","AlignHorizontal":"3","AlignVertical":"2","AppId":"6638891324932096","AppName":"Andon","PrimaryColor":"&HFF9E9E9E","PrimaryColorDark":"&HFF9E9E9E","Title":"Screen1","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"EscolheImagem1","$Type":"ImagePicker","$Version":"10","Height":"200","Width":"200","Image":"bc559a03-58d5-4b25-83c0-0c95b2521b9a.jpeg","Uuid":"370086578"},{"$Name":"Bot\u00e3o1","$Type":"Button","$Version":"11","BackgroundColor":"&HFF9E9E9E","Text":"Clique aqui para come\u00e7ar!","Uuid":"-55193627"}]}}
+|#

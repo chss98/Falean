@@ -1,0 +1,143 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="B)f[M,n3O%aB:w(/`/bQ" x="-630" y="-150">
+    <mutation component_type="Button" is_generic="false" instance_name="Bloco_Cerâmico" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Bloco_Cerâmico</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreenWithStartValue" id="#cI1wSgfDoM,?W#S2r4;">
+        <value name="SCREENNAME">
+          <block type="text" id="#Q~qQN^0[ZGJF{j!4wB-">
+            <field name="TEXT">Screen8</field>
+          </block>
+        </value>
+        <value name="STARTVALUE">
+          <block type="text" id="Np::drVkM*{8dwZN_z[t">
+            <field name="TEXT">Bloco Cerâmico</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="6i1L)64+%;Keah/gPCPm" x="-630" y="-50">
+    <mutation component_type="Button" is_generic="false" instance_name="Bloco_de_Concreto" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Bloco_de_Concreto</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreenWithStartValue" id="2Y-|t#FR}DscMPQ/HbzM">
+        <value name="SCREENNAME">
+          <block type="text" id="m77n_^rw+Vv({?c`%|f!">
+            <field name="TEXT">Screen8</field>
+          </block>
+        </value>
+        <value name="STARTVALUE">
+          <block type="text" id="^V2)@Tf{hw21d{ELqI1U">
+            <field name="TEXT">Bloco de Concreto</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="Xn@uK,?b[Tm*EzY87q=5" x="-630" y="50">
+    <mutation component_type="Button" is_generic="false" instance_name="Argamassa" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Argamassa</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreenWithStartValue" id="0.17vtAd)L/H*NNxiu(6">
+        <value name="STARTVALUE">
+          <block type="text" id="RsJb1V$Kx^,u}D#d@!`6">
+            <field name="TEXT">Argamassa</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="8h;n!7A6HF,T#K~L@Gd;" x="-630" y="150">
+    <mutation component_type="Button" is_generic="false" instance_name="Concreto" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Concreto</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreenWithStartValue" id="J$Kh(7W@.aL84(A}Mj[L">
+        <value name="STARTVALUE">
+          <block type="text" id="6Pir~C/9j`[P^|5ID_K:">
+            <field name="TEXT">Concreto</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="%;OBv,@8iph:D_6II756" x="-630" y="250">
+    <mutation component_type="Button" is_generic="false" instance_name="Madeira" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Madeira</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreenWithStartValue" id="GV#+!*F6aua,7*o#2|1y">
+        <value name="STARTVALUE">
+          <block type="text" id="fCjb=qCj2^Y8ot}Uf)H{">
+            <field name="TEXT">Madeira</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="UYc@$5)cS+i#D/,%8z%N" x="-630" y="350">
+    <mutation component_type="Button" is_generic="false" instance_name="Piso" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Piso</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreenWithStartValue" id="6xz$;,%p$f)=4O`ZT^Ae">
+        <value name="STARTVALUE">
+          <block type="text" id="JT(bRx|FO[xF2gd;K@jl">
+            <field name="TEXT">Piso</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="9^Ta}ye;+qbHX~!SD/?C" x="-630" y="450">
+    <mutation component_type="Button" is_generic="false" instance_name="Portas_e_Janelas" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Portas_e_Janelas</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreenWithStartValue" id="ACKgZ2-rDK.RuND,mgrX">
+        <value name="STARTVALUE">
+          <block type="text" id="_N]Tdqxq~g9R/wsbF_u(">
+            <field name="TEXT">Portas e Janelas</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="=nTNA-V7BhF:kR{8vU+6" x="-630" y="550">
+    <mutation component_type="Button" is_generic="false" instance_name="Revestimento" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Revestimento</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreenWithStartValue" id="qcWYzG3?3(huJ1{5n+-b">
+        <value name="STARTVALUE">
+          <block type="text" id="tGeU/Ssld/86{IYu{YjX">
+            <field name="TEXT">Revestimento</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id=",V3s(z*)38Xg{k!UV4a?" x="-630" y="650">
+    <mutation component_type="Button" is_generic="false" instance_name="Telhas" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Telhas</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreenWithStartValue" id="W-t,OGYejG.h#,gSycm?">
+        <value name="STARTVALUE">
+          <block type="text" id="uE_0yF*`k3wg.oYquGC2">
+            <field name="TEXT">Telhas</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="FqIQO~4KYZ67IW;A_D9K" x="-630" y="750">
+    <mutation component_type="Button" is_generic="false" instance_name="Tintas" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Tintas</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreenWithStartValue" id="E0t2,ES.`aje,BMxpq4;">
+        <value name="STARTVALUE">
+          <block type="text" id="ogxV0_56~Ly=h5J]]g8w">
+            <field name="TEXT">Tintas</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="212" language-version="27"></yacodeblocks>
+</xml>

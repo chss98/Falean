@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["c.kodular.io"],"YaVersion":"212","Source":"Form","Properties":{"$Name":"pavi5","$Type":"Form","$Version":"41","AlignHorizontal":"3","AlignVertical":"2","AppId":"6638891324932096","AppName":"Andon","PrimaryColor":"&HFF9E9E9E","PrimaryColorDark":"&HFF9E9E9E","ReceiveSharedText":"none","Title":"pavi5","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Bot\u00e3o1","$Type":"Button","$Version":"11","Text":"Texto para Bot\u00e3o1","Uuid":"-1146156486"},{"$Name":"Bot\u00e3o2","$Type":"Button","$Version":"11","Text":"Texto para Bot\u00e3o2","Uuid":"-46693421"},{"$Name":"Bot\u00e3o3","$Type":"Button","$Version":"11","Text":"Texto para Bot\u00e3o3","Uuid":"1493033936"},{"$Name":"Bot\u00e3o4","$Type":"Button","$Version":"11","Text":"Texto para Bot\u00e3o4","Uuid":"-1532598346"},{"$Name":"Bot\u00e3o5","$Type":"Button","$Version":"11","Text":"Texto para Bot\u00e3o5","Uuid":"-1183778479"}]}}
+|#
